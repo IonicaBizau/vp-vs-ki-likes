@@ -1,0 +1,31 @@
+{
+  "name": "vp-vs-ki-likes",
+  "version": "1.0.0",
+  "description": "Victor Ponta vs Klauss Iohannis likes on Facebook.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.48.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/vp-vs-ki-likes.git"
+  },
+  "keywords": [
+    "victor",
+    "ponta",
+    "klauss",
+    "iohannis",
+    "likes",
+    "facebook"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/vp-vs-ki-likes/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/vp-vs-ki-likes"
+}
