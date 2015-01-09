@@ -1,5 +1,5 @@
 # vp-vs-ki-likes
-Victor Ponta vs Klauss Iohannis likes on Facebook.
+Victor Ponta vs Klaus Iohannis likes on Facebook.
 
 ## How to use
 Run the following commands to download and install the application:
