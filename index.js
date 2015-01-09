@@ -42,7 +42,7 @@ function seq(callback) {
  * @return {undefined}
  */
 function show(arr) {
-    Exec("notify-send -t 1000 'Victor Ponta: " + arr[0] + "\nKlauss Iohannis: " + arr[1] + " :: Diff: " + (arr[1] - arr[0]) + "'");
+    Exec("notify-send -t 1000 'Victor Ponta: " + arr[0] + "\nKlaus Iohannis: " + arr[1] + " :: Diff: " + (arr[1] - arr[0]) + "'");
 }
 
 
