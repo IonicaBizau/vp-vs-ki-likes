@@ -1,40 +1,48 @@
-# vp-vs-ki-likes
+# vp-vs-ki-likes [![Support this project][donate-now]][paypal-donations]
+
 Victor Ponta vs Klaus Iohannis likes on Facebook.
 
-## How to use
-Run the following commands to download and install the application:
+## Installation
 
 ```sh
-$ git clone git@github.com:IonicaBizau/vp-vs-ki-likes.git vp-vs-ki-likes
-$ cd vp-vs-ki-likes
-$ npm install
+$ npm i vp-vs-ki-likes
 ```
 
-Then run `node index.js` to get data.
-
 ## Documentation
-## `seq(callback)`
+
+### `seq(callback)`
 Fetches the number of likes.
 
-### Params
+#### Params
 - **Function** `callback`: The callback function.
 
-## `show(arr)`
+#### Return
+- ****
+
+### `show(arr)`
 Executes `notiy-send` to show system notifications.
 
-### Params
+#### Params
 - **Array** `arr`: The array with the number of likes.
 
-## How to contribute
+#### Return
+- ****
 
-1. File an issue in the repository, using the bug tracker, describing the
-   contribution you'd like to make. This will help us to get you started on the
-   right foot.
-2. Fork the project in your account and create a new branch:
-   `your-great-feature`.
-3. Commit your changes in that branch.
-4. Open a pull request, and reference the initial issue in the pull request
-   message.
+## How to contribute
+Have an idea? Found a bug? See [how to contribute][contributing].
+
+## Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
 
 ## License
-See the [LICENSE](./LICENSE) file.
+
+[KINDLY][license] © [Ionică Bizău][website]
+
+[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2014
+
+[website]: http://ionicabizau.net
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
+[donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md
