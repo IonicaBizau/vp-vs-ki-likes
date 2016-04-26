@@ -1,14 +1,17 @@
-# vp-vs-ki-likes [![Support this project][donate-now]][paypal-donations]
 
-Victor Ponta vs Klaus Iohannis likes on Facebook.
+# vp-vs-ki-likes [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/vp-vs-ki-likes.svg)](https://www.npmjs.com/package/vp-vs-ki-likes) [![Downloads](https://img.shields.io/npm/dt/vp-vs-ki-likes.svg)](https://www.npmjs.com/package/vp-vs-ki-likes) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-## Installation
+> Victor Ponta vs Klaus Iohannis likes on Facebook.
+
+## :cloud: Installation
 
 ```sh
 $ npm i --save vp-vs-ki-likes
 ```
 
-## Documentation
+
+## :memo: Documentation
+
 
 ### `seq(callback)`
 Fetches the number of likes.
@@ -28,13 +31,13 @@ Executes `notiy-send` to show system notifications.
 #### Return
 - ****
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
