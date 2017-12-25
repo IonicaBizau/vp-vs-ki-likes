@@ -1,6 +1,6 @@
 {
   "name": "vp-vs-ki-likes",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "description": "Victor Ponta vs Klaus Iohannis likes on Facebook.",
   "main": "index.js",
   "dependencies": {
