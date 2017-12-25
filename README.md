@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save vp-vs-ki-likes
+# Using npm
+npm install --save vp-vs-ki-likes
+
+# Using yarn
+yarn add vp-vs-ki-likes
 ```
 
 
