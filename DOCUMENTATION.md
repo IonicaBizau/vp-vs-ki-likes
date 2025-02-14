@@ -9,16 +9,10 @@ Fetches the number of likes.
 
 - **Function** `callback`: The callback function.
 
-#### Return
-- ****
-
 ### `show(arr)`
 Executes `notiy-send` to show system notifications.
 
 #### Params
 
 - **Array** `arr`: The array with the number of likes.
-
-#### Return
-- ****
 
